@@ -1,0 +1,13 @@
+{
+    "name": "typescript-cjs",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "commonjs",
+    "scripts": {
+        "start": "ts-node src/index.cts"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
